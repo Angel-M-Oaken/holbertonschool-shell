@@ -1,1 +1,1 @@
-Shell, basics at Holberton School
+Shell Projects at Holberton School
